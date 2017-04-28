@@ -4,7 +4,7 @@ title:      "关于在线旅游的几点思考"
 subtitle:   "产品心得"
 date:       2017-02-07
 author:     "Zhang Shuo"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/lvxing.jpeg"
 tags:
     - 产品
     - 心得
